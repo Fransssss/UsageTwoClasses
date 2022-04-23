@@ -1,6 +1,6 @@
 // Title: Usage of Two classes
 // Purpose: Use two classes to store and output a person data
-// Practices makes improvement - Enjoy the process
+// Practices make improvement - Enjoy the process
 // Author : Fransiskus Agapa
 
 #include <iostream>
